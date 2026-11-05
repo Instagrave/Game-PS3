@@ -1,0 +1,10 @@
+GAME PS3 - pacote de teste para navegador legado
+
+1. Faça backup do repositório antes de publicar.
+2. Envie index.html e CNAME para a raiz de um repositório de teste, NÃO substitua o site oficial ainda.
+3. Publique pelo GitHub Pages (branch main, pasta /root).
+4. Teste primeiro em computador/celular e depois no navegador do PS3.
+
+Compatibilidade não garantida: o navegador do PS3 varia conforme firmware e tem limitações. Este pacote transpila o JavaScript para ES5 e inclui fallbacks de layout. Alguns recursos podem continuar limitados.
+
+Os links de download do catálogo continuam vazios no projeto original; não foram inventados links.
